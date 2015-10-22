@@ -1,0 +1,23 @@
+{
+    "name": "infinitycorp/FlyFish-core",
+    "description": "The core component of FlyFish Framework. ",
+    "keywords": ["framework", "infinitycorp", "flyfish"],
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mitul Patel",
+            "email": "inifnitycorpsurat@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5.9",
+    },
+    "autoload": {
+        "psr-4": {
+
+                    }
+    }
+}
+
