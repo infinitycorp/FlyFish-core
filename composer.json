@@ -1,5 +1,5 @@
 {
-    "name": "infinitycorp/FlyFish-core",
+    "name": "infinitycorp/flyfish-core",
     "description": "The core component of FlyFish Framework. ",
     "keywords": ["framework", "infinitycorp", "flyfish"],
     "type": "project",
