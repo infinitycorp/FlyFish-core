@@ -2,6 +2,7 @@
     "name": "infinitycorp/flyfish-core",
     "description": "The core component of FlyFish Framework. ",
     "keywords": ["framework", "infinitycorp", "flyfish"],
+    "version":"1.0.0",
     "type": "project",
     "license": "MIT",
     "authors": [
